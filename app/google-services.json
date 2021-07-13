@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251352786436",
+    "firebase_url": "https://example-firebase-project-2936a-default-rtdb.firebaseio.com",
+    "project_id": "example-firebase-project-2936a",
+    "storage_bucket": "example-firebase-project-2936a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251352786436:android:dccf5ae247b05640ccf751",
+        "android_client_info": {
+          "package_name": "pitao.sherwin.firebasesampledatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251352786436-26l7vddi9jjgt7p5rlts9gcct75vrrr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk6N9KMjIDIxlWi3JOV1uARz9G1ZPyUAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251352786436-26l7vddi9jjgt7p5rlts9gcct75vrrr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
